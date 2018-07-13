@@ -1,217 +1,217 @@
 dependencies: \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/ReactCommon/cxxreact/JSBundleType.cpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/ReactCommon/cxxreact/JSBundleType.h \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Bits.h \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Portability.h \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Config.h \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/CPortability.h \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Builtins.h \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Assume.h \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/BitsDetail.h \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/BitIteratorDetail.h \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/iterator_adaptor.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/static_assert.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/user.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/select_compiler_config.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/compiler/clang.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/select_stdlib_config.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/stdlib/libcpp.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/select_platform_config.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/platform/macos.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/posix_features.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/suffix.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/detail/workaround.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/detail/iterator.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/iterator_categories.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/detail/config_def.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/eval_if.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/if.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/value_wknd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/static_cast.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/workaround.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/integral.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/msvc.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/eti.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/na_spec.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/lambda_fwd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/void_fwd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/adl_barrier.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/adl.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/intel.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/gcc.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/na.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/bool.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/bool_fwd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/integral_c_tag.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/static_constant.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/na_fwd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/ctps.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/lambda.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/ttp.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/int.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/int_fwd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/nttp_decl.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/nttp.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/integral_wrapper.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/cat.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/config/config.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/lambda_arity_param.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/template_arity_fwd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/arity.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/dtp.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessor/params.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/preprocessor.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/comma_if.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/punctuation/comma_if.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/control/if.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/control/iif.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/logical/bool.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/facilities/empty.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/punctuation/comma.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/repeat.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/repetition/repeat.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/debug/error.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/detail/auto_rec.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/tuple/eat.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/inc.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/arithmetic/inc.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessor/enum.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/limits/arity.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/logical/and.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/logical/bitand.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/identity.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/facilities/identity.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/empty.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/arithmetic/add.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/arithmetic/dec.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/control/while.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/fold_left.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/detail/fold_left.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/control/expr_iif.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/adt.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/detail/is_binary.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/detail/check.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/logical/compl.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/fold_right.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/detail/fold_right.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/reverse.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/control/detail/while.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/tuple/elem.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/facilities/expand.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/facilities/overload.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/variadic/size.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/tuple/rem.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/tuple/detail/is_single_return.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/variadic/elem.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/arithmetic/sub.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/overload_resolution.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/lambda_support.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/identity.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/placeholders.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/arg.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/arg_fwd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/na_assert.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/assert.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/not.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/nested_type_wknd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/yes_no.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/arrays.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/gpu.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/pp_counter.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/arity_spec.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/arg_typedef.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/use_preprocessed.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/include_preprocessed.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/compiler.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/stringize.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/arg.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_convertible.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/intrinsics.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/detail/config.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/version.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/integral_constant.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/detail/config_undef.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/iterator_facade.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/interoperable.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/or.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/or.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/iterator_traits.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/detail/facade_iterator_category.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/and.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/and.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_same.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_const.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_reference.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_lvalue_reference.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_rvalue_reference.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/detail/indirect_traits.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_function.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/detail/is_function_ptr_helper.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_pointer.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_class.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_volatile.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_member_function_pointer.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/remove_cv.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_member_pointer.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/remove_reference.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/remove_pointer.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/detail/enable_if.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/utility/addressof.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/core/addressof.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_const.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_pointer.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_lvalue_reference.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_reference.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/remove_const.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_pod.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_void.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_scalar.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_arithmetic.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_integral.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_floating_point.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_enum.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/always.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessor/default_params.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/apply.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/apply_fwd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/apply_wrap.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/has_apply.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/has_xxx.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/type_wrapper.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/has_xxx.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/msvc_typename.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/array/elem.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/array/data.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/array/size.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/repetition/enum_params.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/repetition/enum_trailing_params.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/has_apply.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/msvc_never_true.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/lambda.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/bind.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/bind_fwd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/bind.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/next.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/next_prior.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/common_name_wknd.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/protect.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/bind.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/full_lambda.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/quote.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/void.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/has_type.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/bcc.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/quote.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/template_arity.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
-  /Users/batrinh/Documents/React\ Native/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Likely.h
+  /Users/batrinh/Github/templateRN/node_modules/react-native/ReactCommon/cxxreact/JSBundleType.cpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/ReactCommon/cxxreact/JSBundleType.h \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Bits.h \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Portability.h \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Config.h \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/CPortability.h \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Builtins.h \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Assume.h \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/BitsDetail.h \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/BitIteratorDetail.h \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/iterator_adaptor.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/static_assert.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/user.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/select_compiler_config.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/compiler/clang.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/select_stdlib_config.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/stdlib/libcpp.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/select_platform_config.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/platform/macos.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/posix_features.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/suffix.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/detail/workaround.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/detail/iterator.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/iterator_categories.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/detail/config_def.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/eval_if.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/if.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/value_wknd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/static_cast.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/workaround.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/integral.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/msvc.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/eti.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/na_spec.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/lambda_fwd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/void_fwd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/adl_barrier.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/adl.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/intel.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/gcc.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/na.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/bool.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/bool_fwd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/integral_c_tag.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/static_constant.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/na_fwd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/ctps.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/lambda.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/ttp.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/int.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/int_fwd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/nttp_decl.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/nttp.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/integral_wrapper.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/cat.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/config/config.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/lambda_arity_param.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/template_arity_fwd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/arity.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/dtp.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessor/params.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/preprocessor.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/comma_if.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/punctuation/comma_if.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/control/if.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/control/iif.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/logical/bool.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/facilities/empty.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/punctuation/comma.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/repeat.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/repetition/repeat.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/debug/error.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/detail/auto_rec.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/tuple/eat.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/inc.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/arithmetic/inc.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessor/enum.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/limits/arity.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/logical/and.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/logical/bitand.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/identity.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/facilities/identity.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/empty.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/arithmetic/add.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/arithmetic/dec.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/control/while.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/fold_left.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/detail/fold_left.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/control/expr_iif.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/adt.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/detail/is_binary.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/detail/check.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/logical/compl.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/fold_right.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/detail/fold_right.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/list/reverse.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/control/detail/while.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/tuple/elem.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/facilities/expand.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/facilities/overload.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/variadic/size.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/tuple/rem.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/tuple/detail/is_single_return.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/variadic/elem.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/arithmetic/sub.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/overload_resolution.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/lambda_support.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/identity.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/placeholders.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/arg.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/arg_fwd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/na_assert.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/assert.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/not.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/nested_type_wknd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/yes_no.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/arrays.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/gpu.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/pp_counter.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/arity_spec.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/arg_typedef.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/use_preprocessed.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/include_preprocessed.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/compiler.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/stringize.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/arg.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_convertible.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/intrinsics.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/detail/config.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/version.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/integral_constant.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/detail/config_undef.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/iterator_facade.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/interoperable.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/or.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/or.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/iterator_traits.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/detail/facade_iterator_category.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/and.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/and.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_same.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_const.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_reference.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_lvalue_reference.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_rvalue_reference.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/detail/indirect_traits.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_function.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/detail/is_function_ptr_helper.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_pointer.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_class.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_volatile.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_member_function_pointer.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/remove_cv.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_member_pointer.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/remove_reference.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/remove_pointer.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/detail/enable_if.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/utility/addressof.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/core/addressof.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_const.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_pointer.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_lvalue_reference.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_reference.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/remove_const.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_pod.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_void.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_scalar.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_arithmetic.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_integral.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_floating_point.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/is_enum.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/always.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessor/default_params.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/apply.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/apply_fwd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/apply_wrap.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/has_apply.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/has_xxx.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/type_wrapper.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/has_xxx.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/msvc_typename.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/array/elem.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/array/data.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/array/size.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/repetition/enum_params.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/preprocessor/repetition/enum_trailing_params.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/has_apply.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/msvc_never_true.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/lambda.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/bind.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/bind_fwd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/bind.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/next.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/next_prior.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/common_name_wknd.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/protect.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/bind.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/full_lambda.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/quote.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/void.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/has_type.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/config/bcc.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/quote.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/template_arity.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
+  /Users/batrinh/Github/templateRN/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Likely.h
